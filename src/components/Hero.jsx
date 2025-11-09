@@ -7,7 +7,7 @@ import {
 } from "framer-motion";
 import { FaArrowRight } from "react-icons/fa";
 
-import heroPortrait from "../assets/heroPortrait.png";
+import heroPortraitself from "../assets/heroPortraitself.png";
 import heroEllipse1 from "../assets/heroEllipse1.png";
 import heroEllipse2 from "../assets/heroEllipse2.png";
 import grayEllipse from "../assets/grayEllipse.png";
@@ -286,7 +286,7 @@ const Hero = () => {
 					>
 						<div className="relative w-55 h-55 md:w-90 md:h-90">
 							<img
-								src={heroPortrait}
+								src={heroPortraitself}
 								className="w-full h-full object-cover rounded-full border-8 border-blue-700"
 							/>
 							<img

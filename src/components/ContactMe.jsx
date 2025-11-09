@@ -31,8 +31,8 @@ const ContactMe = () => {
 						<span className="text-[#B94A5B]">
 							<LuJoystick />
 						</span>{" "}
-						<span className="text-[#B94A5B]">ARAFAT</span> HOSSAIN
-						SOBUJ
+						<span className="text-[#B94A5B]">SHAHIR</span> ADIL
+						SIZAN
 					</p>
 
 					<p className="text-white font-[700] text-lg md:text-xl text-center md:text-left">
